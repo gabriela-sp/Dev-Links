@@ -48,11 +48,10 @@ body * {
 
 #profile img {
   width: 112px;
-  /*margin: auto; não pode ser aplicado porque imagem é um elemento inline*/
 }
 
 #profile h1 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 500;
   margin-top: 8px;
 }
@@ -117,7 +116,7 @@ ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 16px 20px;
+  padding: 16px;
   background: var(--surface-color);
   border-radius: 25px;
   backdrop-filter: blur(4px);
@@ -137,7 +136,6 @@ ul li a:hover {
   display: flex;
   justify-content: center;
   gap: 10px;
-  padding: 20px 0;
   font-size: 30px;
 }
 
