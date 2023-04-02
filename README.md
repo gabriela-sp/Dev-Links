@@ -3,14 +3,14 @@
 <p align="center">Hello! This project is part of an exclusive and free program promoted by Rocketseat for teaching WEB technologies. <br/>
 
 <p align="center">Modifications were made to the original layout for the project to be just the way I wanted it 🙂</br><br>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Study this project in video format by clicking here.</a>
+<p align="center">Study this project in video format by clicking <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">here.</a>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -23,6 +23,12 @@
   <img alt="projeto DevLinks" src=".github/Capa.png" width="100%">
 </p>
 
+## 💻 Project
+
+DevLinks is a link aggregator to use as an online business card.
+
+- [Access the finished project](https://gabriela-sp.github.io/Dev-Links/)
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
@@ -31,12 +37,6 @@ This project was developed with the following technologies:
 - JavaScript
 - Git and Github
 - Figma
-
-## 💻 Project
-
-DevLinks is a link aggregator to use as an online business card.
-
-- [Access the finished project online](https://maykbrito.github.io/devlinks)
 
 ## 🔖 Layout
 
