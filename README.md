@@ -45,7 +45,3 @@ You can see the layout of the project through [THIS LINK](https://www.figma.com/
 ## :memo: License
 
 This project is under a MIT license.
-
----
-
-Made with ♥ by Rocketseat :wave: [Join our community!](https://discord.gg/rocketseat)
